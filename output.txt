@@ -1,0 +1,6 @@
+red = czerwony
+weather = pogoda
+body = cialo
+road = droga
+name = nazwa
+star = gwiazda

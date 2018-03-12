@@ -1,0 +1,7 @@
+wall
+red
+weather
+body
+road
+name
+star
